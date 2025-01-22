@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-local version of README.md
+
 # ANXIETY THROUGH THE ROOF
 
 ## Description
@@ -36,5 +35,7 @@ For any questions, please contact me at [evolvequickly@ggmail.com](mailto:evolve
 
 HAVE YOU EVER BEEN IN SCHOOL AND JUST FELT OVERWHELMED. THE ANXIETY STARTS KICKING IN AND YOU JUST DONT KNOOW WHAT TO DO. THIS APP WAS DESIGNED FOR YOU. THIS IS A WAY FOR YOU TO KEEP FOCUS AND CONTINUE TO FEED YOUR BRAIN POSITIVE  AFFRIMATION THAT YOU NEED. WE BELIEVE IN YOU AND YOU SHOULD BELIEVE IN YOURSELF. CHECK OUT OUR APP AND SEE IF YOU DONT FEEL BETTER.
 
-https://drive.google.com/file/d/1vC8hc4P9XO4c3q_344cgef6-PH3soCVz/view?usp=sharing
+https://github.com/evolvequickly88/ANXIETY-AT-100.git (COPY OF GITHUB URL)
+
+https://drive.google.com/file/d/1vC8hc4P9XO4c3q_344cgef6-PH3soCVz/view?usp=sharing (LINK TO VIDEO)
 >>>>>>> d10695961a3b7a42742e63c0c2edbd94ead24fac
